@@ -1,6 +1,5 @@
-<!doctype html>
+
 <html>
-</div>
         <div style="font:300 22px helvetica, arial, sans-serif; color:#666666; margin: 0 0 0 0;">
             <span style="display: inline-block">{{ex:emark_marketplace_name}}</span>
         </div>
